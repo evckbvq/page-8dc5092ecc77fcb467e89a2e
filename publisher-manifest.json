@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "10a6160a4b7f326ef969112b",
+  "owner": "evckbvq",
+  "repo": "page-8dc5092ecc77fcb467e89a2e",
+  "title": "GO加速(Gogoo)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8dc5092ecc77fcb467e89a2e",
+      "a": "GO加速(Gogoo)",
+      "b": "2027最新官网",
+      "entity": "GO加速(Gogoo)",
+      "brand": "GO加速(Gogoo)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "5f1c2be86a52cc483729caad28640aec91c560106f600815d90e69635912f17b",
+      "content": {
+        "primary_entity": "GO加速(Gogoo)",
+        "keyword1": "GO加速(Gogoo)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备挑选客户端，再对照套餐设备数上限做选择。",
+          "AI_CLIENTS_TITLE": "客户端按设备选",
+          "AI_CLOSING_TEXT": "选定套餐后按客户端文档配置订阅，即可开始使用 GO加速(Gogoo)。",
+          "AI_CLOSING_TITLE": "选好套餐再配置",
+          "AI_DESCRIPTION": "，GO加速(Gogoo)提供基础版、旗舰版和团队版三档订阅，分别对应每月 100GB、300GB 和 1000GB 流量，设备上限为 3 台、5 台和 20 台。旗舰版加入 IPLC 专线游戏加速优化与 7x24 优先工单，团队版提供 VIP 专属高带宽节点和企业定制路由。按年付基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，可根据设备数量与流量需求对比选择。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量与订阅周期三个维度了解 GO加速(Gogoo)的订阅结构。",
+          "AI_FEATURES_TITLE": "订阅选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，适合轻量使用的个人用户，按年付 ¥150/年。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB、5 台设备，含 IPLC 专线游戏加速和 7x24 优先支持，按年付 ¥350/年。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB、20 台设备，提供 VIP 节点与定制路由，按年付 ¥850/年。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TITLE_2": "按设备选档",
+          "AI_FEATURE_TITLE_3": "按周期选档",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到配置订阅的过程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "GO加速(Gogoo)围绕设备选择、订阅配置和套餐对比提供清晰的使用路径，帮助用户按流量与设备数量匹配合适档位，再依客户端文档导入订阅。",
+          "AI_HERO_SUBTITLE": "GO加速(Gogoo)订阅选择与配置",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "按年付享对应优惠价",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 游戏优化",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付分别为 ¥150、¥350、¥850，按设备数与流量对比即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量和每月流量需求，在基础版、旗舰版和团队版之间选定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备上限与流媒体、游戏加速等适配要求，确认符合使用场景。",
+          "AI_STEP_TEXT_3": "在对应设备上打开客户端，依照客户端文档填入订阅信息完成配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "GO加速(Gogoo)套餐一目了然",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备，适合轻度浏览和偶尔看视频；旗舰版每月 300GB、支持 5 台设备，适合日常多设备流程媒体；团队版每月 1000GB、支持 20 台设备，适合多人和企业办公场景。",
+          "AI_FAQ_ANSWER_2": "按年付有优惠，基础版按年付仅需 ¥150/年，旗舰版按年付仅需 ¥350/年，团队版按年付仅需 ¥850/年。长期使用建议选择按年付方案，折算下来比月付更划算。",
+          "AI_FAQ_ANSWER_3": "购买后在客户端里新增订阅地址，粘贴配置链接并更新，客户端会自动拉取节点列表。不同系统客户端操作细节略有差异，照客户端文档导入即可。",
+          "AI_FAQ_ANSWER_4": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。设备数量是所有成员同时连接的总和，超出数量需要升级套餐或断开部分设备。",
+          "AI_FAQ_ANSWER_5": "基础版适合轻度用户，旗舰版增加 IPLC 专线游戏加速优化和 7x24 优先工单支持，团队版提供 VIP 专属高带宽节点和专属客户经理服务。按使用强度和人数来选即可。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐适合什么使用场景？",
+          "AI_FAQ_QUESTION_2": "按年付能省多少？",
+          "AI_FAQ_QUESTION_3": "如何导入订阅配置？",
+          "AI_FAQ_QUESTION_4": "同时在线设备数怎么算？",
+          "AI_FAQ_QUESTION_5": "旗舰版比基础版多了哪些权益？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "eamols.cn",
+    "host": "eamols.cn"
+  },
+  "file_hashes": {
+    "index.html": "1e17c2a32285c6442419fbe73d7086c24c947b574c19e7d1a468b309b7c03ea2",
+    "sitemap.xml": "ab0ebf8d7998412b28277fc5ee2f09fa8db97e2251ba9aba0497d7dbf75d8609",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "23e76d5831dd4b847efcbbf88aabfa12418cb5cb0121ecf406d898df1fe0e1a9",
+    "robots.txt": "88ff9c956df88ec0c2ca1a8ca556337f08ee49f057c51e5d7a744def6b7ea5d9",
+    "0fabfa84db25e68cedf7b1f104885e95.txt": "2ed6abd9b3fe790d0fe601558c394fe9933150003b79a881894f2f49a16870cb"
+  },
+  "revision": "e99a027ac05e89c007529b055ae6fb0cebec0a68ca952388da4a5d207322356e"
+}
